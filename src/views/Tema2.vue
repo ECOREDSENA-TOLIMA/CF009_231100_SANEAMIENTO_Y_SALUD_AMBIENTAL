@@ -61,7 +61,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img8.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img8.png", alt="Imagen decorativa")
           .crd_hover_txt--body
             h3.text-center.mb-3 Técnicas de observación
             p Son útiles para evidenciar el comportamiento de los alumnos durante la clase, su interacción en trabajos en equipo y su participación en las actividades del aula de clase. Estas técnicas permiten al docente recopilar información valiosa sobre el desempeño de los estudiantes y su nivel de participación en el proceso de aprendizaje.
@@ -71,7 +71,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img9.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img9.png", alt="Imagen decorativa")
           .crd_hover_txt--body
             h3.text-center.mb-3 Técnicas por escrito
             br
@@ -82,7 +82,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img10.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img10.png", alt="Imagen decorativa")
           .crd_hover_txt--body
             h3.text-center.mb-3 Técnicas orales
             p.mb-0 Son herramientas de evaluación que permiten medir el entendimiento y la expresión oral de los temas impartidos. Estas técnicas involucran la interacción verbal entre el estudiante y el evaluador, lo que facilita la evaluación de la capacidad de comunicación y comprensión oral de los estudiantes. Ejemplos de técnicas orales incluyen presentaciones orales, debates, entrevistas y discusiones en grupo.
@@ -90,7 +90,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema2/img11.png", alt="alt")
+              img(src="@/assets/curso/temas/tema2/img11.png", alt="Imagen decorativa")
           .crd_hover_txt--body
             h3.text-center.mb-3 Técnicas interactivas
             p Son herramientas de evaluación que aprovechan instrumentos digitales o de interacción para evaluar el aprendizaje de los estudiantes. Estas técnicas suelen involucrar el uso de herramientas tecnológicas, como mapas mentales, diagramas de flujo, presentaciones con diapositivas y otros medios interactivos para evaluar el conocimiento y las habilidades de los estudiantes.
