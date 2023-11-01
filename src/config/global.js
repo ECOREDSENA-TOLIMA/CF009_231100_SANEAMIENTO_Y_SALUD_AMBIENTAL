@@ -41,9 +41,9 @@ export default {
             hash: 't_1_1',
           },
           {
-            numero: '1.1',
+            numero: '1.2',
             titulo: 'Métodos',
-            hash: 't_1_1',
+            hash: 't_1_2',
           },
         ],
       },
@@ -74,7 +74,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'TFactores de riesgo',
+            titulo: 'Factores de riesgo',
             hash: 't_3_1',
           },
           {
