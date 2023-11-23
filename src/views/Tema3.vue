@@ -126,67 +126,77 @@
       .col-lg-12
         p A su vez, existen diferentes factores de riesgo relacionados con la carga de trabajo de cada empleado en su puesto laboral. Estos pueden ser de carga física o mental. A continuación, se detallan algunos de los factores que pueden influir:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4 col-sm-1")(data-aos="flip-right")
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')        
-        h4.text-center Manipulación de cargas
-        p Pueden producir dolores dorso-lumbares a los trabajadores que están en constante movimiento y levante de cargas de 40 Kg. 
+          .col-8.mb-3
+            img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
+          .col-ipad
+            h4.text-center Manipulación de cargas
+            p Pueden producir dolores dorso-lumbares a los trabajadores que están en constante movimiento y levante de cargas de 40 Kg. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')        
-        h4.text-center Agotamiento muscular
-        p Las actividades que requieren de un gran esfuerzo físico generan agotamientos musculares, los cuales se deben tratar de acuerdo a las condiciones de cada trabajador. 
+          .col-ipad
+            h4.text-center Agotamiento muscular
+            p Las actividades que requieren de un gran esfuerzo físico generan agotamientos musculares, los cuales se deben tratar de acuerdo a las condiciones de cada trabajador. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')        
-        h4.text-center Posturas de trabajo
-        p Estas pueden contribuir a la aparición de consecuencias graves, ya que se relacionan directamente con la columna que es el eje central del cuerpo humano. 
+          .col-ipad
+            h4.text-center Posturas de trabajo
+            p Estas pueden contribuir a la aparición de consecuencias graves, ya que se relacionan directamente con la columna que es el eje central del cuerpo humano. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img12.svg' alt='AvatarTop')        
-        h4.text-center Cargas mentales
-        p Cuando los empleados reciben constantemente información de varias fuentes alternas y el tiempo que tiene destinado para procesarla es el mínimo. 
+          .col-ipad
+            h4.text-center Cargas mentales
+            p Cuando los empleados reciben constantemente información de varias fuentes alternas y el tiempo que tiene destinado para procesarla es el mínimo. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img13.svg' alt='AvatarTop')        
-        h4.text-center Fatiga
-        p Se produce por la disminución de las capacidades físicas y mentales de los trabajadores, cuando se adelantan actividades por largos periodos de tiempo. La fatiga puede generar depresión, insomnio, dolores de cabeza, mareos, pérdida del apetito e irritabilidad.
+          .col-ipad
+            h4.text-center Fatiga
+            p Se produce por la disminución de las capacidades físicas y mentales de los trabajadores, cuando se adelantan actividades por largos periodos de tiempo. La fatiga puede generar depresión, insomnio, dolores de cabeza, mareos, pérdida del apetito e irritabilidad.
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img14.svg' alt='AvatarTop')        
-        h4.text-center Ruido
-        p Todos los sonidos no deseados o que superen los decibeles que el oído puede recibir, son factores de riesgo los cuales pueden generar enfermedades auditivas. 
+          .col-ipad
+            h4.text-center Ruido
+            p Todos los sonidos no deseados o que superen los decibeles que el oído puede recibir, son factores de riesgos los cuales pueden generar enfermedades auditivas. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img15.svg' alt='AvatarTop')        
-        h4.text-center Iluminación
-        p Se relacionan directamente con las condiciones de visibilidad, las cuales son esenciales para evitar accidentes laborales, así mismo, los computadores e iluminación de las áreas de trabajo deben corresponder a las necesidades de cada proceso. 
+          .col-ipad
+            h4.text-center Iluminación
+            p Se relacionan directamente con las condiciones de visibilidad, las cuales son esenciales para evitar accidentes laborales, así mismo, los computadores e iluminación de las áreas de trabajo deben corresponder a las necesidades de cada proceso. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img16.svg' alt='AvatarTop')        
-        h4.text-center Temperatura
-        p Los locales en los cuales se adelanten procesos sedentarios, deben tener una temperatura entre los 17 y 27 ºC, y los locales en donde se adelanten trabajos ligeros deberán estar entre los 14 y 25 ºC. 
+          .col-ipad
+            h4.text-center Temperatura
+            p Los locales en los cuales se adelanten procesos sedentarios, deben tener una temperatura entre los 17 y 27 ºC, y los locales en donde se adelanten trabajos ligeros deberán estar entre los 14 y 25 ºC. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img17.svg' alt='AvatarTop')        
-        h4.text-center Radiaciones
-        p La propagación de energía por medio de las ondas electromagnéticas, son factores de riesgo que se deben controlar con el uso de elementos de protección especial para la manipulación de materiales radiactivos. 
+          .col-ipad
+            h4.text-center Radiaciones
+            p La propagación de energía por medio de las ondas electromagnéticas, son factores de riesgo que se deben controlar con el uso de elementos de protección especial para la manipulación de materiales radiactivos. 
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.mb-3
             img(src='@/assets/curso/temas/tema3/img18.svg' alt='AvatarTop')        
-        h4.text-center Vibraciones
-        p Son producidas por maquinarias que dependen de un motor para su funcionamiento y que pueden afectar el cuerpo de los trabajadores. 
+          .col-ipad
+            h4.text-center Vibraciones
+            p Son producidas por maquinarias que dependen de un motor para su funcionamiento y que pueden afectar el cuerpo de los trabajadores. 
 
     Separador
     .row
@@ -195,7 +205,7 @@
       h2.my-5 3.2 Indicadores y análisis
 
     .cajon.color-secundario.p-4.mb-4
-      p Los indicadores están involucrados en prácticamente todas las actividades relacionadas con la toma de decisiones. Su objetivo es proporcionar información específica que nos permite comprender o señalar algo. En otras palabras, los indicadores son herramientas que usamos en nuestra vida cotidiana para conocer algo y, en base a esa información, tomar decisiones. Por ejemplo, la presión arterial y la temperatura corporal son indicadores del estado de salud de una persona. Cuando estos indicadores están fuera de los parámetros regulares, se toma la decisión de visitar o no a un médico.
+      p Los indicadores están involucrados en prácticamente todas las actividades relacionadas con la toma de decisiones. Su objetivo es proporcionar información específica que nos permite comprender o señalar algo. En otras palabras, los indicadores son herramientas que usamos en nuestra vida cotidiana para conocer algo y, con base en esa información, tomar decisiones. Por ejemplo, la presión arterial y la temperatura corporal son indicadores del estado de salud de una persona. Cuando estos indicadores están fuera de los parámetros regulares, se toma la decisión de visitar o no a un médico.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
